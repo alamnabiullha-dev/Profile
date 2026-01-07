@@ -224,7 +224,7 @@ span {
 
 /*footer*/
 #footer {
-    height: 120px;
+    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -262,3 +262,11 @@ span {
         #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
 }
 .gmail { background: #ea4335; }
+
+#lastrow {
+    height: 30px;
+    color: white;
+    background-color: black;
+    text-align: center;
+
+}
