@@ -206,6 +206,10 @@ span {
     font-size: 36px;
 }
 
+section {
+    min-height: 100vh;
+}
+
 .contact-form form {
     max-width: 50em;
     margin: 1rem auto;
